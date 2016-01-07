@@ -1,0 +1,3 @@
+<?php
+//000000000000s:410:"SELECT `post_id`,`user_id`,`post_date`,`post_content`,`post_title`,`post_status`,`post_comment_status`,`post_password`,`post_name`,`post_template`,`post_modified`,`post_comment_count`,`post_view_count`,`post_type`,`post_img`,`post_top`,`post_url` FROM `hposts` WHERE ( `post_type` = 'single' ) AND ( `post_status` = 'publish' ) AND ( `post_id` IN ('4','1') ) ORDER BY post_top desc ,post_date desc LIMIT 0,20  ";
+?>

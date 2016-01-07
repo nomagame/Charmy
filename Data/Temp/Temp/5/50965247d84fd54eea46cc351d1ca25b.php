@@ -1,0 +1,3 @@
+<?php
+//000000000002a:13:{s:7:"user_id";s:1:"1";s:10:"user_login";s:5:"admin";s:9:"user_pass";s:32:"b7c60757f3dbae118fb9acfc0ff01685";s:13:"user_nicename";s:9:"管理员";s:10:"user_email";s:15:"admin@njut.asia";s:8:"user_url";s:0:"";s:15:"user_registered";s:19:"2015-10-08 15:10:15";s:19:"user_activation_key";s:0:"";s:11:"user_status";s:1:"1";s:10:"user_intro";s:26:"我是admin，欢迎使用";s:10:"user_level";s:1:"2";s:12:"user_session";s:32:"18131ab3f36c62ae4218ab2c3f97d0e2";s:9:"cataccess";N;}
+?>
